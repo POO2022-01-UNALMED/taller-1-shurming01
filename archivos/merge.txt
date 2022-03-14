@@ -1,3 +1,5 @@
 Nombre:Ruben Urías Salas Higita
 Edad:26
 Aspiraciones:Deseo aprender lo más posible sobre la programación orientada a objetos y poder utilizar estas habilidades en práctica
+Se puedo subir la carpeta al repositorio remoto porque ya no esta vacía
+Respuesta: Porque se pueden generar conflictos
